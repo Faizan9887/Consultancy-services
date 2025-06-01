@@ -1,1 +1,67 @@
-# Consultancy-services
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faizan Ul Hasan - Tax & Accounting Consultancy</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background: #004080; color: white; padding: 15px; text-align: center; }
+        nav { background: #00264d; padding: 10px; text-align: center; }
+        nav a { color: white; text-decoration: none; padding: 15px; }
+        section { padding: 20px; }
+        footer { background: #004080; color: white; text-align: center; padding: 10px; position: fixed; bottom: 0; width: 100%; }
+        img { display: block; margin: 0 auto; width: 150px; border-radius: 50%; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Faizan Ul Hasan - Tax & Accounting Consultancy</h1>
+        <p>Your trusted partner in tax and financial solutions</p>
+        <img src="your_photo.jpg" alt="Faizan Ul Hasan">
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#login">Login</a>
+        <a href="#payment">Payment</a>
+        <a href="#feedback">Feedback</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Completed B.Com (Hons), pursuing MBA in Business Analytics, and a Registered GST Practitioner.</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/faizan-ul-hasan-684566219" target="_blank">Faizan Ul Hasan</a></p>
+    </section>
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>GST Registration & Filing</li>
+            <li>Bookkeeping & Accounting</li>
+            <li>Business Tax Consultancy</li>
+            <li>Financial Advisory</li>
+        </ul>
+    </section>
+    <section id="login">
+        <h2>Client Login</h2>
+        <p><a href="#">Click here to login</a></p>
+    </section>
+    <section id="payment">
+        <h2>Payment</h2>
+        <p><a href="#">Click here to make a payment</a></p>
+    </section>
+    <section id="feedback">
+        <h2>Feedback</h2>
+        <textarea placeholder="Leave your feedback here" rows="4" cols="50"></textarea>
+        <br>
+        <button>Submit</button>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: faizanulhasan7860@gmail.com</p>
+        <p>Phone: +91 8233002213</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Faizan Ul Hasan - Tax & Accounting Consultancy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
